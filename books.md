@@ -2,8 +2,9 @@
 
 - La technique pomodoro 
 - Deep work
+- System Design Interview – An insider's guide
+- The Road to React: Your journey to master plain yet pragmatic React.js
 - Clean code 
-
 
 Clean Code : un code propre lors du contrôle
 Le Clean Code nous vient de Robert Cecil Martin, qui a inventé ce terme dans son livre « Clean Code: Rafactoring, Patterns, Testen und Techniken für sauberen Code »pour décrire un code écrit de façon propre. Les principes du Clean Code sont toutefois nettement plus anciens et ne trouvent pas leur origine dans le développement logiciel. Nous vous expliquons ce qui distingue un code propre, quels sont ses avantages et comment vous pouvez écrire du Clean Code.
