@@ -4,6 +4,8 @@
 - Deep work
 - System Design Interview – An insider's guide
 - The Road to React: Your journey to master plain yet pragmatic React.js
+- Designing data intensive applications
+- The Algorithm Design Manual
 - Clean code 
 
 Clean Code : un code propre lors du contrôle
