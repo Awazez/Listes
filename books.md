@@ -6,6 +6,12 @@
 - The Road to React: Your journey to master plain yet pragmatic React.js
 - Designing data intensive applications
 - The Algorithm Design Manual
+
+## Kids books 
+
+- Coding for Beginners: Using Python, by Louie Stowell) - from age 6
+- Python for kids (by Jason R. Briggs) - from age 10
+
 - Clean code 
 
 Clean Code : un code propre lors du contrôle
